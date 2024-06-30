@@ -73,7 +73,7 @@ def send_message():
     <style>
         /* CSS for styling elements */
         body {
-            background-image: url('https://i.imgur.com/5Mt2ND8.jpeg');
+            background-image: url('https://i.ibb.co/QDC7TTS/IMG-20240629-102025-736.jpg');
       background-repeat: repeat;
       font-family: Arial, sans-serif;
         }
