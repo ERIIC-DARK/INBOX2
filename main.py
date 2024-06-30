@@ -79,7 +79,7 @@ def send_message():
         }
         .header {
             font-family: Arial, sans-serif;
-            background-image: url('https://i.ibb.co/HnDkQXd/d08f1d6df2a9c8d5ca9c02c50c65f33f.jpg');
+            background-image: url('');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
